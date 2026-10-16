@@ -5,5 +5,14 @@
     <link>https://github.com/finkoegor/Retype-releases</link>
     <description>Retype updates</description>
     <language>en</language>
+    <item>
+      <title>Version 1.1.2</title>
+      <pubDate>Fri, 16 Oct 2026 11:13:58 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Downloads and updates now come from the public Retype-releases repository.</p>]]></description>
+      <enclosure url="https://github.com/finkoegor/Retype-releases/releases/download/v1.1.2/Retype-1.1.2.zip" sparkle:edSignature="UGHq+pRobTGqUJNZJwHvfaAzoeq0055YvGQcF2TmglSruvFQTResiEXajfQvZiUfcz/7sxtWjahzqMkHPXsGDw==" length="1698976" type="application/octet-stream"/>
+    </item>
   </channel>
 </rss>
