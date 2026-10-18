@@ -6,6 +6,19 @@
     <description>Fliq updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.0</title>
+      <pubDate>Sun, 18 Oct 2026 04:04:42 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/finkoegor/Fliq-releases/releases/latest</link>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>6</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
+      <description><![CDATA[<p>Adds Ukrainian, Bulgarian and Greek. New default shortcuts type nothing: tap Right Option to convert typed text, Control Option W for the last word, C for case and F to turn fixing on or off.</p>]]></description>
+      <enclosure url="https://github.com/finkoegor/Fliq-releases/releases/download/v1.3.0/Fliq-1.3.0.zip" sparkle:edSignature="DxWIDAg4pycDKjWAXY7NYl1ZeN6BYGfOEqSQ55psMMmbzOkwow9DlmZszYygOFcXaS3rA999ZeRgbN3TslabBQ==" length="1708814" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <pubDate>Sun, 18 Oct 2026 01:42:32 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
