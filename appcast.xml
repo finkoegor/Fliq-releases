@@ -6,6 +6,19 @@
     <description>Fliq updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Sun, 18 Oct 2026 01:42:32 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/finkoegor/Fliq-releases/releases/latest</link>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>6</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
+      <description><![CDATA[<p>Retype is now Fliq: the same app under a new name.</p>]]></description>
+      <enclosure url="https://github.com/finkoegor/Fliq-releases/releases/download/v1.2.0/Fliq-1.2.0.zip" sparkle:edSignature="38v5twmyVtMf7O8qv7WOZrna6RApoStlkpau/pGs/VE1UfIG6Ne+wryAC8q8qXDq0wGQC1PFPY6+Wzud3W2BCQ==" length="1697413" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1.2</title>
       <pubDate>Fri, 16 Oct 2026 11:13:58 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
