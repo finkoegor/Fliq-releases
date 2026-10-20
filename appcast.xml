@@ -6,6 +6,19 @@
     <description>Fliq updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.2</title>
+      <pubDate>Tue, 20 Oct 2026 09:27:55 GMT</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.3.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/finkoegor/Fliq-releases/releases/latest</link>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>6</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
+      <description><![CDATA[<p>Fixes Fliq stopping to fix typing after the Mac wakes from sleep.</p>]]></description>
+      <enclosure url="https://github.com/finkoegor/Fliq-releases/releases/download/v1.3.2/Fliq-1.3.2.zip" sparkle:edSignature="XxsYbdwbI33bcCc36zzfWurzbXwDqlBcyqgmUVgVaPd6vTSvtyTrZUnylDrPYQ+4+IpHY9hyj2Ke/TaIsiJGBw==" length="1743459" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.1</title>
       <pubDate>Sun, 18 Oct 2026 04:35:39 GMT</pubDate>
       <sparkle:version>8</sparkle:version>
