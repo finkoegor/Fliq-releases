@@ -6,6 +6,19 @@
     <description>Fliq updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.3.3</title>
+      <pubDate>Fri, 23 Oct 2026 11:17:41 GMT</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.3.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <link>https://github.com/finkoegor/Fliq-releases/releases/latest</link>
+      <sparkle:informationalUpdate>
+        <sparkle:belowVersion>6</sparkle:belowVersion>
+      </sparkle:informationalUpdate>
+      <description><![CDATA[<p>Fixes auto-correction not working after a restart until Fliq was relaunched.</p>]]></description>
+      <enclosure url="https://github.com/finkoegor/Fliq-releases/releases/download/v1.3.3/Fliq-1.3.3.zip" sparkle:edSignature="cMf5npla6+5Ejvsqiggydot1VYxhPqCxC2P5/P2KVIEnHVmZdHxPObqun9MG2kUjuSVu7jzeoENPNE1EyNhIDQ==" length="1746279" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.3.2</title>
       <pubDate>Tue, 20 Oct 2026 09:27:55 GMT</pubDate>
       <sparkle:version>9</sparkle:version>
